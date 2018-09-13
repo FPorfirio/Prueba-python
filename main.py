@@ -1,2 +1,2 @@
 def prueba(x):
-    print(x)
+    print(x, "hola")
